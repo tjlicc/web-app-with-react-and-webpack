@@ -1,0 +1,27 @@
+{
+  "name": "web-app-with-react-and-webpack",
+  "version": "1.0.0",
+  "description": "develop scaffold",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "licc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjlicc/web-app-with-react-and-webpack.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/tjlicc/web-app-with-react-and-webpack/issues"
+  },
+  "homepage": "https://github.com/tjlicc/web-app-with-react-and-webpack#readme",
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
